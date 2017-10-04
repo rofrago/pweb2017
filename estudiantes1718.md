@@ -21,4 +21,4 @@
 ## Grupo 4. (¿Tema?)
 <!-- aquí el listado de miembros del grupo 4 -->
 
-- [Franco Gomez, Rocio] (http://rofrago.github.io)
+- [Franco Gomez, Rocio](http://rofrago.github.io)
